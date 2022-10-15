@@ -1,4 +1,4 @@
-<!-- [![DOI](https://zenodo.org/badge/551723824.svg)](https://zenodo.org/badge/latestdoi/551723824) -->
+[![DOI](https://zenodo.org/badge/551723824.svg)](https://zenodo.org/badge/latestdoi/551723824)
 
 # Samoan Passage Bathymetry Data Archive
 
