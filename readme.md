@@ -6,9 +6,9 @@ Merged multibeam product from the 2012 (RR1209) and 2014 (TN305) Samoan Passage 
 
 The data were collected under National Science Foundation grants OCE-1029268 and OCE-1029483.
 
-Data are stored in human-readable format at https://osf.io// and can be downloaded manually from there.
+Data are stored in human-readable format at https://osf.io/7anhw/ and can be downloaded manually from there.
 
-A repository containing data in *git-annex* / *datalad* format is located at https://osf.io// and connected to this repository. To access the data this way, clone the bare dataset repository (without the data files) via:
+A repository containing data in *git-annex* / *datalad* format is located at https://osf.io/jmkd6/ and connected to this repository. To access the data this way, clone the bare dataset repository (without the data files) via:
 ```
 datalad clone https://github.com/gunnarvoet/sp-data-archive-bathy
 ```
